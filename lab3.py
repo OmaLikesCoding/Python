@@ -11,7 +11,7 @@
 
 # Hint:  Use the int() function to convert the string returned from input() into an integer
 """
-At one human year a medium dog ages 15 years and the second 9 years. So I did the calc to reflect every year after 1 to multiply by 5 and add 12. 
+At one human year a medium dog ages 15 years and the second 9 years(after that they age 5 years each year). So I did the calc to reflect every year after 1 to multiply by 5 and add 12. 
 This age calc methodology was given by Dutch.com, they did not provide an actual calculation in terms of a numerical math problem.
 But, they made reference to the dog ages in relation to human ages.
 """
