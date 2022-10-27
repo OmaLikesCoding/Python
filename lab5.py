@@ -17,3 +17,18 @@ So, this one confused me... I will have to revist this soon. Before the next uni
 
 """
 
+fib1 , fib2 =0,1
+
+while fib2  <50:
+    print(f'term: {fib1 + fib2 } / number: {fib2 +1}')
+    fib1, fib2 = fib1, fib2+1
+    
+
+
+#the solution below gave me an endless loop of epic portions
+#     fibterm = 0
+# fib1, fib2 = 1, 2
+
+# while fibterm <= 50:
+#     print(f'term: {fib1 + fib2 } / number: {fib2 +1}')
+#     fib1, fib2 = fib1, fib2+fib2
